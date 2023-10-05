@@ -4,5 +4,5 @@ En este repositorio se presentan los códigos utilizados para llevar a cabo la m
 
 ### A continuación se presenta un pequeño resumen de cada código utilizado.
 
-- \textit{sdfs}
+- _gus_
  
