@@ -6,5 +6,5 @@ En este repositorio se presentan los códigos utilizados para llevar a cabo la m
 
 - ***gus_wrf_ray.py***:
   Es el script base para utilizar las rutinas de la librería Iris para la lectura y extracción de datos de los modelos mesoescala de WRF.
-- ***bra***
+- ***STD_D_IB_VMC.ipynb***: Es el cuaderno de jupyter para la obtención de las series temporales mediante los métodos de interpolación para el dominio ’D’.
  
